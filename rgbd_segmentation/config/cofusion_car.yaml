@@ -1,0 +1,4 @@
+rgb_image_sub_topic: /camera/color/image_raw
+depth_image_sub_topic: /camera/aligned_depth_to_color/image_raw
+
+camera_intrinsics: [903.4918931962458, 0, 903.616479392612, 0, 637.6818856511718, 369.3598564835838, 0, 0, 1]
